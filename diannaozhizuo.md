@@ -22,9 +22,10 @@
 ## 3.利用设想设计装置草图，呈现产品形象
 
 ## 4。系统框图：梳理产品结构，设计产品整体功能、组织结构、模块划分等； 
+ ![](https://github.com/castic2020/actormic/blob/master/%E6%BC%94%E5%A5%8F%E8%80%85%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E9%BA%A6%E5%85%8B%E9%A3%8E.jpg)
 
 ## 5.软件、电路、AI模块设计：利用所学知识编写程序,实现对数据结构、算法分析和模块实现等方面的要求，实现各模块的功能  
-
+![](https://github.com/castic2020/actormic/blob/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1.jpg)
 ## 3.利用YOLO算法代码，精简修改为查找演奏者的专用代码  
    ![](capture_20200501144353618.bpm)
 ## 4.将GPU代码修改为可以在CPU上运行  
