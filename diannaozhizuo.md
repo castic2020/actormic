@@ -30,8 +30,10 @@
 ![](https://github.com/castic2020/actormic/blob/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1.jpg)
 
 
-## 6.利用YOLO算法代码，精简修改为查找演奏者的专用代码  
+## 6.利用YOLO算法找演奏者
+   利用YOLO算法中的coco数据集，识别人体。标定出演奏者。
    ![](capture_20200501144353618.jpg)
+   
 ## 7. 修改手势识别开源算法，使之可以识别乐器  
 ![](capture_20200502095334969.jpg)
 ## 8.对YOLO算法和乐器识别算法整合  
