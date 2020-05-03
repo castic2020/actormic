@@ -19,7 +19,7 @@
   ![](https://github.com/castic2020/actormic/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191222165610.jpg)
   麦克风阵列位于舞台中央，中间有一个摄像头，面对舞台中的演奏者，其中拿乐器的重点关注，指向拿乐器的人的麦克风提高音量增益。
 
-## 4.系统框图：梳理产品结构，设计产品整体功能、组织结构、模块划分等； 
+## 4.基于arduino的麦克风阵列增益调节系统硬件设计
 
  ![](https://github.com/castic2020/actormic/blob/master/%E6%BC%94%E5%A5%8F%E8%80%85%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E9%BA%A6%E5%85%8B%E9%A3%8E.jpg)
 
